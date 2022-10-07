@@ -3,7 +3,89 @@
         "counter": "1",
         "name": "Toby",
         "pic": "toby1",
-        "description": "Toby would like for you to know that he LOVES ice cream but would like your help getting it from behind this weird clear fence."
+        "description": "Toby LOVES ice cream but would like your help getting it from behind this weird clear barrier."
+    },
+    {
+        "counter": "2",
+        "name": "Quinn",
+        "pic": "quinn2",
+        "description": "Quinn had a great time at her family reunion, she didn't like the grass appetizers but she was happy to see everyone."
+    },
+    {
+        "counter": "3",
+        "name": "Otto",
+        "pic": "otto3",
+        "description": "Otto wanted to make sure that your order was right but don't be surprise to just find crumbs inside the bag."
+    },
+    {
+        "counter": "4",
+        "name": "Hershey",
+        "pic": "hershey4",
+        "description": "Hershey wanted to know if he went through the tree, if he would appear in a wonderland of his own."
+    },
+    {
+        "counter": "5",
+        "name": "Brix",
+        "pic": "brix5",
+        "description": "Brix will make the house of your dreams but it may take him a few years as he is a one-man construction company."
+    },
+    {
+        "counter": "6",
+        "name": "Ozzy",
+        "pic": "ozzy6",
+        "description": "Ozzy has had enough of the customers at work today, he is ready to go home and cuddle up right next to you."
+    },
+    {
+        "counter": "7",
+        "name": "Mystery",
+        "pic": "mystery7",
+        "description": "Mystery is ready to go shopping, she has had her eye on these new toys that dropped this morning."
+    },
+    {
+        "counter": "8",
+        "name": "Henry",
+        "pic": "henry8",
+        "description": "Henry is ready to move in but wants you to know to be careful with his stick collection, they're very fragile."
+    },
+    {
+        "counter": "9",
+        "name": "",
+        "pic": "",
+        "description": ""
+    },
+    {
+        "counter": "10",
+        "name": "",
+        "pic": "",
+        "description": ""
+    },
+    {
+        "counter": "11",
+        "name": "",
+        "pic": "",
+        "description": ""
+    },
+    {
+        "counter": "12",
+        "name": "",
+        "pic": "",
+        "description": ""
+    },{
+        "counter": "13",
+        "name": "",
+        "pic": "",
+        "description": ""
+    },
+    {
+        "counter": "14",
+        "name": "",
+        "pic": "",
+        "description": ""
+    },
+    {
+        "counter": "15",
+        "name": "",
+        "pic": "",
+        "description": ""
     }
-    
 ]
